@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joel, working in the LG Datascape team
+- 👋 Hi,
 
 ## Things I've been involved with
 
